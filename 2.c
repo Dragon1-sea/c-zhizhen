@@ -8,6 +8,6 @@ int main(){
     int *p3 = (int *)(&a[0] + 1);
     printf("p1: %d\n", *p1);
     //printf("p2: %d\n", *p2);
-    printf("p3: %d\n", *p3);
+    //printf("p3: %d\n", *p3);
     return 0;
 }
